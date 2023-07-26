@@ -1,0 +1,57 @@
+{
+  // editor
+  "editor.fontSize": 18,
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.cursorBlinking": "expand",
+  //terminal
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 3,
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Dracula Soft",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "tabnine.experimentalAutoImports": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "markdown.replaceSmartQuotes": true,
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": "active",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "eslint.format.enable": true,
+  "files.autoSaveDelay": 500,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "eslint.notebooks.rules.customizations": [],
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.wordWrap": "on",
+  "powermode.enabled": true,
+  "powermode.shake.enabled": false,
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timerEnabled": "hide",
+  "snipped.enableLogo": false,
+  "snipped.autoCopy": false
+}
